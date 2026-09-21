@@ -4,7 +4,7 @@ import java.util.Set;
 public class FirstRepeatingElement {
 
     public static void main(String[] args) {
-        int[] arr = { 5, 3, 4, 3, 5, 6 };
+        int[] arr = { 5, 3, 4, 3, 5, 6, 7 };
         System.out.println(firstRepeatingElement(arr));
     }
 
